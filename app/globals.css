@@ -1,11 +1,13 @@
 @import "tailwindcss";
 
 html {
-  scroll-behavior: smooth;
+  /* Let Lenis control smoothness — native smooth-scroll would fight it */
+  scroll-behavior: auto;
 }
 
 body {
   background: #fffaf5;
   color: #1e293b;
   font-family: "Inter", system-ui, -apple-system, sans-serif;
+  overscroll-behavior: none;
 }

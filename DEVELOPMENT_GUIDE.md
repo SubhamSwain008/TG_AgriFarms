@@ -141,7 +141,7 @@ Contains:
 
 - Contains the **product data array**  this is where all product names, descriptions, and prices are defined
 - Renders 6 ProductCard components in a responsive grid
-- Currently shows: Red Chilli Powder, Kashmiri Chilli Powder, Chilli Flakes, Whole Dried Chillies, Smoked Chilli Powder, Combo Pack
+- Currently shows: CAMEROON PEPPE, HOT PEPPE POWDER, HOT DELICIOUS PEPPE, Whole Dried Chillies, Smoked Chilli Powder, Combo Pack
 
 **To add a new product**: Add a new object to the `products` array with `id`, `name`, `description`, and `price`.
 

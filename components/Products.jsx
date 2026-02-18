@@ -3,45 +3,27 @@ import ProductCard from "./ProductCard";
 const products = [
   {
     id: 1,
-    name: "Premium Red Chilli Powder",
+    name: "CAMEROON PEPPE",
     description:
-      "Our signature blend  stone-ground from handpicked Guntur red chillies. Rich color, bold heat, and smoky aroma.",
+      "Our signature blend stone-ground from handpicked Guntur red chillies. Rich color, bold heat, and smoky aroma.",
     price: "₹249",
+    image: "/products/product1.jpeg",
   },
   {
     id: 2,
-    name: "Kashmiri Chilli Powder",
+    name: "HOT PEPPE POWDER",
     description:
       "Vibrant deep red color with mild heat. Perfect for curries, tandoori dishes, and marinades that need color without fire.",
     price: "₹299",
+    image: "/products/product2.jpeg",
   },
   {
     id: 3,
-    name: "Extra Hot Chilli Flakes",
+    name: "HOT DELICIOUS PEPPE",
     description:
       "Crushed dried red chillies with seeds for maximum heat. Ideal for pizza toppings, stir-fries, and spicy dips.",
     price: "₹199",
-  },
-  {
-    id: 4,
-    name: "Whole Dried Red Chillies",
-    description:
-      "Sun-dried whole Byadgi chillies with deep color and moderate heat. Essential for tempering and traditional recipes.",
-    price: "₹179",
-  },
-  {
-    id: 5,
-    name: "Smoked Chilli Powder",
-    description:
-      "Slow-smoked over wood fire for a rich, earthy flavor. Adds depth to BBQ rubs, sauces, and grilled meats.",
-    price: "₹349",
-  },
-  {
-    id: 6,
-    name: "Chilli &amp; Spice Combo Pack",
-    description:
-      "Best-seller bundle with red chilli powder, turmeric, coriander, and cumin. Everything you need for everyday cooking.",
-    price: "₹599",
+    image: "/products/product3.jpeg",
   },
 ];
 
