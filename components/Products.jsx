@@ -5,7 +5,7 @@ const products = [
     id: 1,
     name: "CAMEROON PEPPE",
     description:
-      "Our signature blend stone-ground from handpicked Guntur red chillies. Rich color, bold heat, and smoky aroma.",
+      "Our signature blend stone-ground from handpicked  red chillies. Rich color, bold heat, and smoky aroma.",
     price: "₹249",
     image: "/products/product1.jpeg",
   },

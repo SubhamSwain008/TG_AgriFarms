@@ -93,10 +93,10 @@ export default function Footer() {
               Contact
             </h4>
             <ul className="space-y-2.5 text-sm text-stone-400">
-              <li>contact@tgafagrifarms.com</li>
-              <li>+91 98765 43210</li>
-              <li>Spice Farm Road, Guntur District</li>
-              <li>Andhra Pradesh, India</li>
+              <li>tgagrifarmsltd1@gmail.com</li>
+              <li>+2347074927736</li>
+              <li>5, Itokin road, Itamope, Ikorodu</li>
+              <li>Nigeria - 104101</li>
             </ul>
           </div>
 

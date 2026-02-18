@@ -118,7 +118,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-stone-800">Email</p>
-                    <p className="text-sm text-stone-500">contact@tgafagrifarms.com</p>
+                    <p className="text-sm text-stone-500">tgagrifarmsltd1@gmail.com</p>
                   </div>
                 </div>
 
@@ -131,7 +131,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-stone-800">Phone</p>
-                    <p className="text-sm text-stone-500">+91 98765 43210</p>
+                    <p className="text-sm text-stone-500">+2347074927736</p>
                   </div>
                 </div>
 
@@ -146,9 +146,9 @@ export default function Contact() {
                   <div>
                     <p className="text-sm font-medium text-stone-800">Address</p>
                     <p className="text-sm text-stone-500">
-                      Spice Farm Road, Guntur District,
+                      5, Itokin road, Itamope, Ikorodu,
                       <br />
-                      Andhra Pradesh, India
+                      Nigeria - 104101
                     </p>
                   </div>
                 </div>

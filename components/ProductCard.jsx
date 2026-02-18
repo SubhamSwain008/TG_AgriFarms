@@ -21,14 +21,6 @@ export default function ProductCard({ product }) {
         <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">
           {product.description}
         </p>
-        <div className="flex items-center justify-between pt-2">
-          <span className="text-xl font-bold bg-gradient-to-r from-red-700 to-amber-600 bg-clip-text text-transparent">
-            {product.price}
-          </span>
-          <button className="rounded-lg bg-red-50 px-4 py-2 text-sm font-semibold text-red-700 hover:bg-red-700 hover:text-white transition-all duration-200 cursor-pointer">
-            View Details
-          </button>
-        </div>
       </div>
     </div>
   );
