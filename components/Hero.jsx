@@ -120,7 +120,7 @@ export default function Hero() {
               style={{ opacity: 0, transform: "translateY(28px)", transition: "opacity 0.8s ease, transform 0.8s ease" }}
               className="flex gap-8 pt-2"
             >
-              {[["50+", "Spice Varieties"], ["10K+", "Happy Customers"], ["100%", "Pure & Natural"]].map(([val, label]) => (
+              {[["5", "Spice Varieties"], ["10K+", "Happy Customers"], ["100%", "Pure & Natural"]].map(([val, label]) => (
                 <div key={label}>
                   <p className="text-2xl font-bold text-white">{val}</p>
                   <p className="text-sm text-white/55">{label}</p>

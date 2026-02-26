@@ -19,11 +19,19 @@ const products = [
   },
   {
     id: 3,
-    name: "HOT DELICIOUS PEPPE",
+    name: "GINGER POWDER",
     description:
-      "Crushed dried red chillies with seeds for maximum heat. Ideal for pizza toppings, stir-fries, and spicy dips.",
+      "Premium quality ginger powder made from carefully selected ginger roots. Adds warm, zesty flavor to your dishes and beverages.",
     price: "₹199",
-    image: "/products/product3.jpeg",
+    image: "/products/product3.png",
+  },
+  {
+    id: 4,
+    name: "TURMERIC POWDER",
+    description:
+      "Pure golden turmeric powder with rich color and earthy aroma. Perfect for curries, health drinks, and traditional recipes.",
+    price: "₹179",
+    image: "/products/product4.png",
   },
 ];
 
@@ -46,7 +54,7 @@ export default function Products() {
         </div>
 
         {/* Product Grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {products.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}

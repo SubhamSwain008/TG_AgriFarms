@@ -135,7 +135,7 @@ Contains:
 - Shows the logo image large on the right side
 - Shows headline, tagline, and two buttons
 - "View Products" button scrolls to the products section
-- Stats row: 50+ Spice Varieties, 10K+ Customers, 100% Pure
+- Stats row: 5 Spice Varieties, 10K+ Customers, 100% Pure
 
 ### `components/Products.jsx`
 
@@ -168,7 +168,7 @@ Contains:
 - Shows the logo image on the left
 - Company story text on the right
 - Mission statement in a highlighted card
-- Stats: 50+ Spice Varieties, 10K+ Orders Shipped, 100% Pure
+- Stats: 5 Spice Varieties, 10K+ Orders Shipped, 100% Pure
 
 ### `components/Contact.jsx`
 

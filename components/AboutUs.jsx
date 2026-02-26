@@ -32,19 +32,19 @@ export default function AboutUs() {
           {/* Text Content */}
           <div className="space-y-6">
             <h3 className="text-2xl font-bold text-stone-900">
-              From Our Farms, To Your Kitchen
+              Headquartered in Singapore, Committed to Africa
             </h3>
             <p className="text-stone-600 leading-relaxed">
-              TG AgriFarms was born from a passion for authentic Indian spices.
-              We grow, dry, and grind our own chillies on our farms  ensuring
-              every pinch of our chilli powder carries the true heat, color, and
-              aroma that mass-produced brands simply cannot match.
+              We are a young company built by highly qualified team carrying years of experience in the spices industry. We apply this invaluable experience to serve companies and communities across the region that help our customers make better food and ingredients in the most natural, responsible and sustainable manner.
             </p>
             <p className="text-stone-600 leading-relaxed">
-              We work directly with local farmers and use traditional stone-grinding
-              methods passed down through generations. No shortcuts, no blending
-              with cheap fillers  just real chillies, real flavor, and real heat.
-              That is the TG AgriFarms promise.
+              We manage the whole value chain from farm to factory. We have a very proactive farm-gate procurement initiative that spans over 100 villages across northern states of Nigeria and is integrated to our modern processing plant located in Ikorodu that has been carefully and thoughtfully designed to ensure the most stringent food safety norms are followed.
+            </p>
+            <p className="text-stone-600 leading-relaxed">
+              We also develop our own spice farm in Niger state where we closely work with farmers from the surrounding communities to grow several varieties of chillis that are meticulously hand picked and sundried to achieve the ideal moisture condition for processing. This ensures very high standards along the whole supply chain – from very high agriculture practices, traceability and processing at global standards.
+            </p>
+            <p className="text-stone-600 leading-relaxed">
+              Our painstaking preemptive approach to the whole value chain not only ensures high product standards but importantly, our efforts enable us to enrichen lives of farmers and communities that have embarked on our journey. This endeavor and passion to serve both customer and community is deeply engrained in all of us at Goodearth Agriventures.
             </p>
 
             {/* Mission */}
@@ -60,9 +60,7 @@ export default function AboutUs() {
                     Our Mission
                   </h4>
                   <p className="text-sm text-stone-500 leading-relaxed">
-                    To bring the purest, most authentic chilli powder and spices
-                    from Indian farms to kitchens worldwide  with no
-                    compromises on quality, purity, or taste.
+                    To bring the purest, most authentic spices from African farms to kitchens and industries worldwide – with no compromises on quality, purity, or sustainability.
                   </p>
                 </div>
               </div>
@@ -72,15 +70,15 @@ export default function AboutUs() {
             <div className="grid grid-cols-3 gap-4 pt-2">
               <div className="text-center p-4 rounded-xl bg-white border border-stone-100 shadow-sm">
                 <p className="text-2xl font-bold bg-gradient-to-r from-red-700 to-amber-600 bg-clip-text text-transparent">
-                  50+
+                  100+
                 </p>
-                <p className="text-xs text-stone-500 mt-1">Spice Varieties</p>
+                <p className="text-xs text-stone-500 mt-1">Villages Covered</p>
               </div>
               <div className="text-center p-4 rounded-xl bg-white border border-stone-100 shadow-sm">
                 <p className="text-2xl font-bold bg-gradient-to-r from-red-700 to-amber-600 bg-clip-text text-transparent">
-                  10K+
+                  3000+
                 </p>
-                <p className="text-xs text-stone-500 mt-1">Orders Shipped</p>
+                <p className="text-xs text-stone-500 mt-1">Hectares Cultivated</p>
               </div>
               <div className="text-center p-4 rounded-xl bg-white border border-stone-100 shadow-sm">
                 <p className="text-2xl font-bold bg-gradient-to-r from-red-700 to-amber-600 bg-clip-text text-transparent">
